@@ -1,5 +1,3 @@
-# user_understanding_challenge
-
 ## Fabric's user understanding challenge
 
 Congratulations on being selected for this take home interview! The goal of this challenge is to see how you approach problem solving, especially when the “best practice” approach isn’t clear. We don’t want to constrain your thinking, so feel free to solve this challenge with any tools you deem appropriate.
